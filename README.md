@@ -49,8 +49,8 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;Hello，guys，My name is Lee Fely.</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;Hello, guys. Welcome to my GitHub HomePage. My name is Lee Fely.</p>
+<p>&emsp;&emsp;I Love Nature Science including Bioscience, Chemistry, Computer Science, Data Scinence, Electronic Science, Mathematics, Medicine and Physics. </p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;那些从一开始就认为，这个世界无法改变或者他改变不了这个世界的人，注定改变不了这个世界。</p>
 <p>&emsp;&emsp;<strong>Those who believe from the beginning that the world cannot be changed or that they cannot change the world are destined to be unable to change the world.</strong></p>
@@ -63,7 +63,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
 
-- [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— Now
+- [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-07-01 —— Now
 
   - 工作岗位：软件工程师
   - 工作内容：创业
