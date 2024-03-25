@@ -2,7 +2,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="https://blog.sunguoqi.com/">
+    <a href="https://leefely.github.io/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Lee Fely's GitHub HomePage!&center=true&size=27" />
     </a>
   </div>
@@ -20,12 +20,12 @@
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://leefely.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://twitter.com/lesfei129/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="https://www.youtube.com/@user-ld2dc4vk5w"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="https://mp.dragon2000super.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://space.bilibili.com/398499301/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://blog.csdn.net/LF0714/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/ren-sheng-zi-bian-zi-dao-zi-yan-25/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
@@ -51,8 +51,8 @@
 
 <p>&emsp;&emsp;Hello, guys. Welcome to my GitHub HomePage. My name is Lee Fely.</p>
 <p>&emsp;&emsp;I Love Nature Science including Bioscience, Chemistry, Computer Science, Data Scinence, Electronic Science, Mathematics, Medicine and Physics. </p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;那些从一开始就认为，这个世界无法改变或者他改变不了这个世界的人，注定改变不了这个世界。</p>
+<p>&emsp;&emsp;I potato computer science and data science, and wish to become a scientific master.</p>
+<p>&emsp;&emsp;Those who from the outset think that the world cannot be changed, or that they cannot change the world, are bound to fail in changing it.</p>
 <p>&emsp;&emsp;<strong>Those who believe from the beginning that the world cannot be changed or that they cannot change the world are destined to be unable to change the world.</strong></p>
 
 </td></tr>
@@ -63,24 +63,24 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
 
-- [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-07-01 —— Now
+- [West China Medical Center, Sichuan University](https://www.wchscu.cn/Home.html/) &emsp; 📌 2024-07-01 —— Now
 
-  - 工作岗位：软件工程师
-  - 工作内容：创业
+  - Job position：Research Assistant
+  - Job description：laboratory technician
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
 
-- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
+- [Shaoxing University](https://www.usx.edu.cn/) &emsp; 📌 2020-09-1 —— 2024-07-1
 
-  - 工作岗位：Web 前端开发工程师
-  - 工作内容：杂活
+  - Job position: campus student
+  - Job description: learning
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
 
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
+- [No.1 Middle School of CangZhou](http://www.hbczyizhong.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
 
-  - 工作岗位：Web 前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
+  - Job position: high school student
+  - Job description: learning
 
 </td></tr>
 
@@ -390,10 +390,7 @@ Mac                      29 hrs 54 mins      ███████████�
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/activity.svg" alt="activity" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
+
 </table>
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
