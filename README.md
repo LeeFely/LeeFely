@@ -91,7 +91,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
 
-- [Guangming primary School](https://baike.sogou.com/v64386204.htm) &emsp; 📌 2011-09-01 —— 2014-07-01
+- [Guangming primary School](https://baike.sogou.com/v64386204.htm) &emsp; 📌 2008-09-01 —— 2014-07-01
 
   - Job position: pupil
   - Job description: learning
