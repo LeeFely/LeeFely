@@ -241,14 +241,7 @@ Mac                      29 hrs 54 mins      ███████████�
 <img src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
 
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-  <tr>
-    <td>
-<!-- just img 图片 -->
-<img src="https://github.com/LeeFely/LeeFely/blob/main/MyPi/01.png" />
-  </tr>
-</table>
+
 
 </div>
 
