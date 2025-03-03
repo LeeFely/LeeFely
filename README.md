@@ -63,7 +63,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
 
-- [West China Medical Center, Sichuan University](https://www.wchscu.cn/Home.html/) &emsp; 📌 2024-07-01 —— Now
+- [AllLink-official]([https://www.wchscu.cn/Home.html/](https://alllink-official.github.io/)) &emsp; 📌 2024-07-01 —— Now
 
   - Job position：Research Assistant
   - Job description：laboratory technician
