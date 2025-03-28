@@ -74,21 +74,6 @@
 
   - Job position: campus student
   - Job description: learning
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
-
-- [No.1 Middle School of CangZhou](http://www.hbczyizhong.cn/) &emsp; 📌 2017-09-01 —— 2020-07-01
-
-  - Job position: high school student
-  - Job description: learning
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
-
-- [Tianjin fifty-seventh middle school](http://baike.baidu.com/item/天津市第五十七中学/6357494) &emsp; 📌 2014-09-01 —— 2017-07-01
-
-  - Job position: middle school student
-  - Job description: learning
-
 </td></tr>
 
 <tr><td>
