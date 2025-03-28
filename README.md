@@ -22,7 +22,7 @@
     <a href="https://leefely.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://twitter.com/lesfei129/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/@user-ld2dc4vk5w"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://mp.dragon2000super.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://mp.alllink-official123.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/398499301/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/LF0714/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/ren-sheng-zi-bian-zi-dao-zi-yan-25/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
