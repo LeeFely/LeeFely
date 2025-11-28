@@ -49,7 +49,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;Hello, guys. Welcome to my GitHub HomePage. My name is Lee Fely.</p>
+<p>&emsp;&emsp;Hello, guys. Welcome to my GitHub HomePage. My name is Felix Lee.</p>
 <p>&emsp;&emsp;I Love Nature Science including Bioscience, Chemistry, Computer Science, Data Scinence, Electronic Science, Mathematics, Medicine and Physics. </p>
 <p>&emsp;&emsp;I potato computer science and data science, and wish to become a scientific master.</p>
 <p>&emsp;&emsp;Those who from the outset think that the world cannot be changed, or that they cannot change the world, are bound to fail in changing it.</p>
